@@ -2,7 +2,7 @@
 
 **Deskripsi Singkat:**
 
-Ini adalah proyek technical test yang dibuat untuk [Sebutkan tujuan test, misal: mengevaluasi kemampuan dalam membangun UI yang interaktif]. Proyek ini menggunakan teknologi berikut:
+Ini adalah proyek technical test yang dibuat untuk mengevaluasi kemampuan dalam membangun UI yang interaktif. Proyek ini menggunakan teknologi berikut:
 
 * **HTML:** Sebagai struktur dasar halaman web.
 * **Tailwind CSS:** Sebagai framework CSS untuk styling.
